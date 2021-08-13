@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(Name=00007ffafc3e2083 @5 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="8163.13803333333,272.590493817724,138.306666666667,25.24" Label="00007ffafc3e2083">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=00007ffb0b1f3b29 @26 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2028.47601495171,113.740568867319,141.836666666666,25.24" Label="00007ffb0b1f3b29">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=00007ffb0d8ccea1 @30 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="-4.54747350886464E-13,180.756701219128,141.43,25.24" Label="00007ffb0d8ccea1">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=00007ffb0d8ffb97 @30 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="3244.07527742849,321.604898584754,138.973333333333,25.24" Label="00007ffb0d8ffb97">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=pj_thread_this @60 Type=&quot;pj_thread_t *&quot; @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="4218.3323,165.043946832476,115.8,25.24" Label="pj_thread_this" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjlib/src/pj/os_core_win32.c StartLineNumber=585 StartCharacterOffset=0 EndLineNumber=585 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@10" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="6992.68066666667,262.689017259985,136.296666666667,25.24" Label="00007ffafcd82f21">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@100" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="4103.87553333333,173.147087316623,84.4566666666669,25.24" Label="_wassert">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@101" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="4961.01946666667,201.430960907431,113.093333333333,25.24" Label="common_exit">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@102" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="946.417971186555,264.462640676327,143.346666666667,25.24" Label="sdl_create_window" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjmedia/src/pjmedia-videodev/sdl_dev.c StartLineNumber=738 StartCharacterOffset=0 EndLineNumber=738 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@103" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1115.73526801058,131.255345131978,70.75,25.24" Label="pj_log" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjlib/src/pj/log.c StartLineNumber=478 StartCharacterOffset=0 EndLineNumber=478 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@104" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="4520.2725,181.631658840051,226.036666666667,25.24" Label="common_assert_to_message_box">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@105" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="4364.1324,175.551953918312,126.14,25.24" Label="common_assert">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@11" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="7158.97743333334,265.266654018327,135.893333333333,25.24" Label="00007ffafcd82fa3">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@12" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="6822.88056666667,259.779722347112,139.8,25.24" Label="00007ffafcd830b1">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@13" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="7494.0443,269.171685948784,136.936666666666,25.24" Label="00007ffafcd8fd55">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@14" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="7660.98106666667,270.583624942244,133.016666666666,25.24" Label="00007ffafcd8ffa7">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@15" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="7324.87086666667,267.391675917539,139.173333333333,25.24" Label="00007ffafcd90081">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@16" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="7823.99783333333,271.606898613601,140.833333333333,25.24" Label="00007ffafd043d97">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@18" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2385.43811076183,314.912921390559,136.91,25.24" Label="00007ffac4fb1b8f">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@19" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2217.29801076183,312.900177378499,138.14,25.24" Label="00007ffac4fb533c">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@20" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1878.56447742849,307.822251384327,140.426666666667,25.24" Label="00007ffac4fbb43d">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@21" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1711.05104409516,303.353289144062,137.513333333333,25.24" Label="00007ffac4fc6754">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@22" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2552.34821076183,317.136720185882,139.813333333334,25.24" Label="00007ffac4fdd486">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@23" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2048.99124409516,310.43376752769,138.306666666667,25.24" Label="00007ffac4fe6407">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@25" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="5284.253,214.973506917766,141.976666666666,25.24" Label="00007ffae382718e">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@27" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2722.16164409516,318.809531254871,145.14,25.24" Label="00007ffb0b1e66dd">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@29" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="5456.22976666667,221.889578431037,141.823333333334,25.24" Label="00007ffae3781cd5">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@3" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="171.4301,180.869286468321,140.4,25.24" Label="00007ffb0cc17c24">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@31" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="6145.56016666667,244.350317320328,144.1,25.24" Label="00007ffb0d885021">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@32" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="858.310734276461,195.720775467944,144.74,25.24" Label="00007ffb0d89081d">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@33" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="509.703867609793,189.537809710075,144.726666666667,25.24" Label="00007ffb0d8945b4">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@34" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2897.30174409516,320.389159990201,144.323333333333,25.24" Label="00007ffb0d89b9a7">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@35" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="3071.62517742849,321.223035895825,142.45,25.24" Label="00007ffb0d89cae9">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@36" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="5799.32996666667,234.074079037353,143.316666666667,25.24" Label="00007ffb0d8ca97d">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@37" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="5972.64673333333,239.455041341643,142.913333333333,25.24" Label="00007ffb0d8caad2">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@39" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1331.14838684325,199.345243025443,141.21,25.24" Label="00007ffb036f1b29">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@4" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="5628.0532,228.264191859117,141.276666666667,25.24" Label="00007ffb0cc1cdda">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@40" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1558.91060427589,199.512931484928,137.706666666667,25.24" Label="00007ffb036f1f70">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@41" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1097.75667377878,198.377280528658,141.863333333333,25.24" Label="00007ffb036f85dd">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@43" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1687.52248161838,117.755427554566,140.163333333333,25.24" Label="00007ffae2c7227c">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@44" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2064.37786666667,12.3702371426678,141.183333333333,25.24" Label="00007ffae2c76886">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@45" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="683.213733333333,72.8649920597148,141.81,25.24" Label="00007ffae2c77b82">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@46" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="855.023833333332,48.6672548348919,140.163333333333,25.24" Label="00007ffae2c77c43">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@47" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1025.18726666667,29.0390528179708,140.803333333333,25.24" Label="00007ffae2c77cd0">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@48" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="341.830199999999,132.536864919094,142.436666666667,25.24" Label="00007ffae2c7b5b5">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@49" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="514.266966666666,101.708585235572,138.946666666667,25.24" Label="00007ffae2d77fc5">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@50" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1195.9907,14.3145356896548,144.123333333333,25.24" Label="00007ffae2ddd744">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@51" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1370.11413333333,4.92426611509117,143.72,25.24" Label="00007ffae2ddd83a">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@52" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1543.83423333333,0.132835667280773,144.123333333333,25.24" Label="00007ffae2ddd984">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@53" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1717.95766666667,2.8421709430404E-14,143.72,25.24" Label="00007ffae2ddda49">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@54" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1891.67776666667,3.94592539515935,142.7,25.24" Label="00007ffae2dddac1">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@55" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1857.68591495171,115.151823017412,140.79,25.24" Label="00007ffae30daaec">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@57" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2211.1711521859,189.251915355255,138.306666666667,25.24" Label="00007ffaf2e6c657">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@58" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1780.14186339464,197.465249017568,139.586666666667,25.24" Label="00007ffaf2e78cdd">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@59" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1999.25310616856,194.231649770206,135.43,25.24" Label="00007ffaf2e7c08f">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@6" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="7994.83126666667,272.303699894685,138.306666666667,25.24" Label="00007ffafc44604e">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@62" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="3152.7917,76.5373372451347,154.53,25.24" Label="unregisterMediaPort" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjsip/src/pjsua2/media.cpp StartLineNumber=181 StartCharacterOffset=0 EndLineNumber=181 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@63" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2972.60493333333,55.2814240825564,150.186666666666,25.24" Label="~AudioMediaPlayer" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjsip/src/pjsua2/media.cpp StartLineNumber=278 StartCharacterOffset=0 EndLineNumber=278 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@64" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2713.3415,42.7117181351498,229.263333333333,25.24" Label="~SwigDirector_AudioMediaPlayer" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjsua2/pjsua2_wrap.cpp StartLineNumber=2939 StartCharacterOffset=0 EndLineNumber=2939 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@66" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2494.6014,29.926920943912,188.74,25.24" Label="`scalar deleting destructor'">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@68" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="684.43063427646,167.16922996721,143.88,25.24" Label="wmme_dev_thread" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjmedia/src/pjmedia-audiodev/wmme_dev.c StartLineNumber=1003 StartCharacterOffset=0 EndLineNumber=1003 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@69" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="684.430634276461,222.40922996721,97.4433333333333,25.24" Label="job_thread" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjmedia/src/pjmedia-videodev/sdl_dev.c StartLineNumber=1326 StartCharacterOffset=0 EndLineNumber=1326 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@7" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="6657.6038,256.500182173726,135.276666666667,25.24" Label="00007ffafcd722cf">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@70" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="837.891204519889,250.960775467944,78.5266666666666,25.24" Label="set_cap" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjmedia/src/pjmedia-videodev/sdl_dev.c StartLineNumber=1204 StartCharacterOffset=0 EndLineNumber=1204 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@71" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1592.99238161838,118.91326981524,64.5299999999997,25.24" Label="write" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjsua2/pjsua2_wrap.cpp StartLineNumber=3519 StartCharacterOffset=0 EndLineNumber=3519 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@72" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1456.01228161838,121.132648302023,106.98,25.24" Label="utilLogWrite" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjsip/src/pjsua2/endpoint.cpp StartLineNumber=574 StartCharacterOffset=0 EndLineNumber=574 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@73" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="3337.3218,98.851609360166,175.513333333333,25.24" Label="pjsua_conf_remove_port" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjsip/src/pjsua-lib/pjsua_aud.c StartLineNumber=873 StartCharacterOffset=0 EndLineNumber=873 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@74" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2235.5613,19.4627356991485,229.04,25.24" Label="CSharp_delete_AudioMediaPlayer" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjsua2/pjsua2_wrap.cpp StartLineNumber=19650 StartCharacterOffset=0 EndLineNumber=19650 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@75" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="3764.32533333333,150.130217184788,117.003333333334,25.24" Label="pj_mutex_lock" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjlib/src/pj/os_core_win32.c StartLineNumber=1008 StartCharacterOffset=0 EndLineNumber=1008 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@76" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="372.297100943126,193.690586705819,107.406666666667,25.24" Label="thread_main" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjlib/src/pj/os_core_win32.c StartLineNumber=462 StartCharacterOffset=0 EndLineNumber=462 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@78" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2717.15768742663,176.551719331051,77.1066666666666,25.24" Label="Render" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/third_party/baseclasses/renbase.cpp StartLineNumber=1003 StartCharacterOffset=0 EndLineNumber=1003 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@79" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2841.07306832414,172.142753817036,136.346666666667,25.24" Label="DoRenderSample" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjmedia/src/pjmedia-videodev/dshowclasses.cpp StartLineNumber=202 StartCharacterOffset=0 EndLineNumber=202 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@8" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="6488.43036666667,252.822210367992,139.173333333333,25.24" Label="00007ffafcd72910">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@80" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2560.89464538603,180.882117082842,79.7733333333335,25.24" Label="Receive" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/third_party/baseclasses/renbase.cpp StartLineNumber=1192 StartCharacterOffset=0 EndLineNumber=1192 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@81" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2401.86959248486,185.315967576667,79.7733333333335,25.24" Label="Receive" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/third_party/baseclasses/renbase.cpp StartLineNumber=1639 StartCharacterOffset=0 EndLineNumber=1639 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@82" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="4869.0827,195.983362939918,61.9366666666665,25.24" Label="_exit">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@83" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="5104.1129,207.909962613089,150.14,25.24" Label="try_cor_exit_process">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@84" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="4776.30926666667,184.607428656416,62.7733333333335,25.24" Label="raise">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@87" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1524.52094409516,297.447664034196,156.53,25.24" Label="D3D_CreateRenderer" SourceLocation="(Assembly=file:///e:/work/person/sdl2-2.0.12/src/render/direct3d/sdl_render_d3d.c StartLineNumber=1779 StartCharacterOffset=0 EndLineNumber=1779 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@89" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="989.064755993257,135.747943331542,83.1666666666665,25.24" Label="pj_log_4" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjlib/src/pj/log.c StartLineNumber=525 StartCharacterOffset=0 EndLineNumber=525 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@9" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="6319.66026666667,248.693080338085,138.77,25.24" Label="00007ffafcd72a44">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@90" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="858.310734276461,140.480775467944,78.9000000000001,25.24" Label="play_cb" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjmedia/src/pjmedia/sound_port.c StartLineNumber=122 StartCharacterOffset=0 EndLineNumber=122 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@91" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="3352.73513333333,154.091610001363,160.1,25.24" Label="copy_frame_to_buffer" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjmedia/src/pjmedia/vid_port.c StartLineNumber=1081 StartCharacterOffset=0 EndLineNumber=1081 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@92" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="3911.32876666667,164.884355549956,162.546666666667,25.24" Label="pj_thread_check_stack" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjlib/src/pj/os_core_win32.c StartLineNumber=676 StartCharacterOffset=0 EndLineNumber=676 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@93" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="3027.31074675034,167.330125707901,85.1733333333332,25.24" Label="input_cb" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjmedia/src/pjmedia-videodev/dshow_dev.c StartLineNumber=645 StartCharacterOffset=0 EndLineNumber=645 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@94" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="3542.83523333333,126.477244346464,191.49,25.24" Label="pjmedia_conf_remove_port" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjmedia/src/pjmedia/conference.c StartLineNumber=1144 StartCharacterOffset=0 EndLineNumber=1144 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@95" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1123.23741076183,280.219081144301,153.436666666667,25.24" Label="SDL_CreateRenderer" SourceLocation="(Assembly=file:///e:/work/person/sdl2-2.0.12/src/dynapi/sdl_dynapi_procs.h StartLineNumber=331 StartCharacterOffset=0 EndLineNumber=331 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@96" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1306.67417742849,290.290455408368,187.846666666667,25.24" Label="SDL_CreateRenderer_REAL" SourceLocation="(Assembly=file:///e:/work/person/sdl2-2.0.12/src/render/sdl_render.c StartLineNumber=816 StartCharacterOffset=0 EndLineNumber=816 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@97" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="3161.18240338877,161.910618917645,137.216666666667,25.24" Label="vidstream_cap_cb" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjmedia/src/pjmedia/vid_port.c StartLineNumber=1177 StartCharacterOffset=0 EndLineNumber=1177 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@98" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1220.40432707441,128.271743514668,92.9933333333333,25.24" Label="log_writer" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjsip/src/pjsua-lib/pjsua_core.c StartLineNumber=710 StartCharacterOffset=0 EndLineNumber=710 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@99" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1344.33551495171,124.402491928733,81.6766666666667,25.24" Label="logFunc" SourceLocation="(Assembly=file:///e:/work/person/pjproject_csharp/pjsip/src/pjsua2/endpoint.cpp StartLineNumber=621 StartCharacterOffset=0 EndLineNumber=621 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+  </Nodes>
+  <Links>
+    <Link Source="(Name=00007ffb0d8ccea1 @30 @2)" Target="@3" Category="CallStackDirectCall" Bounds="141.430000000002,193.423282626489,21.0001019526052,0.013833193857181" />
+    <Link Source="@10" Target="@11" Category="CallStackDirectCall" Bounds="7128.97733333334,276.36661407662,21.0011835872028,0.325918240713065" />
+    <Link Source="@100" Target="@105" Category="CallStackDirectCall" Bounds="4188.33203125,190.877502441406,166.81494140625,5.45668029785156" />
+    <Link Source="@101" Target="@83" Category="CallStackDirectCall" Bounds="5074.1128,216.317841735061,21.0073232524419,0.842155711879798" />
+    <Link Source="@102" Target="@95" Category="CallStackDirectCall" Bounds="1089.76463785336,283.292302182705,24.5063618723027,2.12319149818103" />
+    <Link Source="@103" Target="@98" Category="CallStackDirectCall" Bounds="1186.48526801063,142.321659714863,24.9220453431799,0.642171074786233" />
+    <Link Source="@104" Target="@84" Category="CallStackDirectCall" Bounds="4746.30916666667,196.180023005015,21.0014097789553,0.358334482886846" />
+    <Link Source="@105" Target="@104" Category="CallStackDirectCall" Bounds="4490.2724,190.03254833989,21.0040136945381,0.619628202172692" />
+    <Link Source="@11" Target="@15" Category="CallStackDirectCall" Bounds="7294.87076666667,278.748500825685,21.0008239089657,0.266377939138124" />
+    <Link Source="@12" Target="@10" Category="CallStackDirectCall" Bounds="6962.68056666667,273.609847966106,21.001448408444,0.363582128114729" />
+    <Link Source="@13" Target="@14" Category="CallStackDirectCall" Bounds="7630.98096666667,282.377666093765,21.0004295906965,0.179730310016566" />
+    <Link Source="@14" Target="@16" Category="CallStackDirectCall" Bounds="7793.99773333334,283.611330113157,21.000269098824,0.128734519016234" />
+    <Link Source="@15" Target="@13" Category="CallStackDirectCall" Bounds="7464.0442,280.748725639366,21.0006047978295,0.222434708630544" />
+    <Link Source="@16" Target="@6" Category="CallStackDirectCall" Bounds="7964.83116666667,284.516256369139,21.0001759847346,0.0862943970025754" />
+    <Link Source="@18" Target="@22" Category="CallStackDirectCall" Bounds="2522.34811076197,328.437106168094,21.0008849820451,0.277389241325068" />
+    <Link Source="@19" Target="@18" Category="CallStackDirectCall" Bounds="2355.43801076197,326.35002454121,21.000749505471,0.2523152221126" />
+    <Link Source="@20" Target="@23" Category="CallStackDirectCall" Bounds="2018.9911440953,321.524891485997,21.0011697052241,0.323823231641882" />
+    <Link Source="@21" Target="@20" Category="CallStackDirectCall" Bounds="1848.56437742863,317.791782162078,21.0032461425042,0.555498954749453" />
+    <Link Source="@22" Target="@27" Category="CallStackDirectCall" Bounds="2692.1615440953,330.434728291331,21.000523267046,0.203679071997044" />
+    <Link Source="@23" Target="@19" Category="CallStackDirectCall" Bounds="2187.29791076197,324.067659939553,21.0010671637519,0.307907393779146" />
+    <Link Source="@25" Target="@29" Category="CallStackDirectCall" Bounds="5426.22966666667,230.449586640459,21.0073753242141,0.845191538855374" />
+    <Link Source="@27" Target="@34" Category="CallStackDirectCall" Bounds="2867.3016440953,332.085586301504,21.0004677496008,0.189850666226789" />
+    <Link Source="@29" Target="@4" Category="CallStackDirectCall" Bounds="5598.0531,237.144578133972,21.0063071008753,0.78057131601571" />
+    <Link Source="@3" Target="@33" Category="CallStackDirectCall" Bounds="311.830108642578,191.140335083008,189.264007568359,1.71342468261719" />
+    <Link Source="@3" Target="@48" Category="CallStackDirectCall" Bounds="286.388888393488,160.219240254965,73.2385934056609,20.6500462133591" />
+    <Link Source="@3" Target="@76" Category="CallStackDirectCall" Bounds="311.830100000002,198.371065742655,51.4886841183423,3.5805753702486" />
+    <Link Source="@31" Target="@9" Category="CallStackDirectCall" Bounds="6289.66016666667,258.795474918902,21.0029862658521,0.532043858100337" />
+    <Link Source="@32" Target="@41" Category="CallStackDirectCall" Bounds="1003.05073427653,209.148528103833,85.7065000487114,0.956607037817918" />
+    <Link Source="@33" Target="@32" Category="CallStackDirectCall" Bounds="654.430534276527,203.441236683918,194.881615191681,3.45639580324666" />
+    <Link Source="@34" Target="@35" Category="CallStackDirectCall" Bounds="3041.62507742863,333.356209977381,21.0002040820737,0.100997120679324" />
+    <Link Source="@35" Target="(Name=00007ffb0d8ffb97 @30 @2)" Category="CallStackDirectCall" Bounds="3214.07517742863,334.002358071185,21.0001225163728,0.0469748712027354" />
+    <Link Source="@36" Target="@37" Category="CallStackDirectCall" Bounds="5942.64663333334,248.921445630172,21.0044445815265,0.65288426321996" />
+    <Link Source="@37" Target="@31" Category="CallStackDirectCall" Bounds="6115.56006666667,254.091101640432,21.0036799326599,0.592592506987842" />
+    <Link Source="@39" Target="@40" Category="CallStackDirectCall" Bounds="1472.35838684332,212.017628383747,77.5522199098443,0.0575398460032091" />
+    <Link Source="@4" Target="@36" Category="CallStackDirectCall" Bounds="5769.32986666667,243.266132942881,21.0052123842397,0.708300663258626" />
+    <Link Source="@40" Target="@58" Category="CallStackDirectCall" Bounds="1696.61727094263,210.811458812429,74.5249746904797,0.686873201599269" />
+    <Link Source="@41" Target="@39" Category="CallStackDirectCall" Bounds="1239.62000711218,211.291872936356,82.5284573504271,0.342756036854695" />
+    <Link Source="@43" Target="@55" Category="CallStackDirectCall" Bounds="1827.68581495166,128.984366251023,21.0011494365549,0.320739822954238" />
+    <Link Source="@44" Target="@74" Category="CallStackIndirectCall" Bounds="2205.5612,27.3177308994756,21.0049879727535,0.692560194098959" />
+    <Link Source="@45" Target="@46" Category="CallStackDirectCall" Bounds="824.995535399019,72.4641150147285,21.1317045314779,2.99052051415272" />
+    <Link Source="@46" Target="@47" Category="CallStackDirectCall" Bounds="995.187166666669,50.7939735388235,21.0591632852547,2.42459635630473" />
+    <Link Source="@47" Target="@50" Category="CallStackDirectCall" Bounds="1165.9906,33.8526023598866,21.0327237731121,1.7957238555825" />
+    <Link Source="@48" Target="@49" Category="CallStackDirectCall" Bounds="482.163836030554,128.190394006996,24.8256153110242,4.48370197971155" />
+    <Link Source="@49" Target="@45" Category="CallStackDirectCall" Bounds="652.440414742762,98.8249864034474,22.8792825931123,3.87326439362275" />
+    <Link Source="@50" Target="@51" Category="CallStackDirectCall" Bounds="1340.11403333334,21.9092993216652,21.0131891825968,1.13453028236579" />
+    <Link Source="@51" Target="@52" Category="CallStackDirectCall" Bounds="1513.83413333334,14.9859373092736,21.0035134055379,0.578633000176211" />
+    <Link Source="@52" Target="@53" Category="CallStackDirectCall" Bounds="1687.95756666667,12.6817581796314,21.0001026250272,0.0160391807110685" />
+    <Link Source="@53" Target="@54" Category="CallStackDirectCall" Bounds="1861.67766666667,14.2570534910846,21.0024345050936,0.478459626048419" />
+    <Link Source="@54" Target="@44" Category="CallStackDirectCall" Bounds="2034.37776666667,20.0617289735293,21.0108829492738,1.02943125155983" />
+    <Link Source="@55" Target="(Name=00007ffb0b1f3b29 @26 @2)" Category="CallStackDirectCall" Bounds="1998.47591495166,127.018921492937,21.0004053641419,0.17299816276585" />
+    <Link Source="@57" Target="@81" Category="CallStackDirectCall" Bounds="2349.47781885264,199.127832341231,43.3944474977957,1.05802145010881" />
+    <Link Source="@58" Target="@59" Category="CallStackDirectCall" Bounds="1919.72853006138,207.994620839933,70.5255748679042,1.0507689658705" />
+    <Link Source="@59" Target="@57" Category="CallStackDirectCall" Bounds="2134.68310616864,203.69595568865,67.490496413011,1.57522708574703" />
+    <Link Source="@6" Target="(Name=00007ffafc3e2083 @5 @2)" Category="CallStackDirectCall" Bounds="8133.13793333333,285.041536842956,21.0001130661685,0.0357840919280079" />
+    <Link Source="@62" Target="@73" Category="CallStackDirectCall" Bounds="3307.3217,97.9979516259561,21.087664975239,2.41283782098202" />
+    <Link Source="@63" Target="@62" Category="CallStackDirectCall" Bounds="3122.7916,76.6543912102307,21.0606232521136,2.4548509811904" />
+    <Link Source="@64" Target="@63" Category="CallStackDirectCall" Bounds="2942.60483333334,61.8893956251593,21.0147905837925,1.20218281017772" />
+    <Link Source="@66" Target="@64" Category="CallStackDirectCall" Bounds="2683.3414,47.5950062688164,21.0129489359797,1.12403474787276" />
+    <Link Source="@68" Target="@90" Category="CallStackDirectCall" Bounds="823.228872997281,162.216602161622,26.2380326562105,4.95262780559298" />
+    <Link Source="@69" Target="@70" Category="CallStackDirectCall" Bounds="781.873700038439,244.689296872947,47.1893561569627,9.3563063906177" />
+    <Link Source="@7" Target="@12" Category="CallStackDirectCall" Bounds="6792.88046666667,270.444192593381,21.0018237915128,0.411107609569399" />
+    <Link Source="@70" Target="@102" Category="CallStackDirectCall" Bounds="916.417871186689,267.342237056977,21.0411180056842,2.01575746248267" />
+    <Link Source="@71" Target="@43" Category="CallStackDirectCall" Bounds="1657.52238161833,131.067274429709,21.0004443972764,0.183723430715588" />
+    <Link Source="@72" Target="@71" Category="CallStackDirectCall" Bounds="1562.99228161833,132.324414075098,21.0017537706192,0.402667705381617" />
+    <Link Source="@73" Target="@94" Category="CallStackDirectCall" Bounds="3512.3277147898,122.761051687076,23.0491639283673,2.98240056448128" />
+    <Link Source="@74" Target="@66" Category="CallStackDirectCall" Bounds="2464.6013,37.0990946618251,21.0087218929311,0.920252273507032" />
+    <Link Source="@75" Target="@92" Category="CallStackDirectCall" Bounds="3881.32866666667,167.834247084293,21.033894090112,1.82792991294818" />
+    <Link Source="@76" Target="@68" Category="CallStackDirectCall" Bounds="460.506103515625,179.488677978516,214.924560546875,14.201904296875" />
+    <Link Source="@76" Target="@69" Category="CallStackDirectCall" Bounds="479.703765869141,211.863891601563,195.759429931641,18.2430267333984" />
+    <Link Source="@78" Target="@79" Category="CallStackDirectCall" Bounds="2794.26435409337,186.978778635205,37.8124227496055,1.08583224876131" />
+    <Link Source="@79" Target="@93" Category="CallStackDirectCall" Bounds="2977.41973499088,181.495388430198,40.895047451409,1.22509440017535" />
+    <Link Source="@8" Target="@7" Category="CallStackDirectCall" Bounds="6627.6037,266.97270906737,21.0022760498814,0.461926942592527" />
+    <Link Source="@80" Target="@78" Category="CallStackDirectCall" Bounds="2640.66797871943,190.500771289318,67.4932222424491,1.88648452448899" />
+    <Link Source="@81" Target="@80" Category="CallStackDirectCall" Bounds="2481.64292581827,194.865051197739,70.2552157205014,1.95881791726086" />
+    <Link Source="@82" Target="@101" Category="CallStackDirectCall" Bounds="4931.01936666667,210.038948917569,21.0097546381085,0.973940341832616" />
+    <Link Source="@83" Target="@25" Category="CallStackDirectCall" Bounds="5254.2529,223.541805107141,21.0073346959607,0.84282380877022" />
+    <Link Source="@84" Target="@82" Category="CallStackDirectCall" Bounds="4839.0826,201.093513554565,21.0676082716927,2.59502428354594" />
+    <Link Source="@87" Target="@21" Category="CallStackDirectCall" Bounds="1681.0509440953,312.678663562278,21.0051041301072,0.700751510517705" />
+    <Link Source="@89" Target="@103" Category="CallStackDirectCall" Bounds="1072.23142265998,145.530063296028,34.5100978476162,1.2870429968209" />
+    <Link Source="@9" Target="@8" Category="CallStackDirectCall" Bounds="6458.43026666667,263.008628019068,21.0027860054515,0.513240975801182" />
+    <Link Source="@90" Target="@89" Category="CallStackDirectCall" Bounds="937.210734276527,150.169284293822,42.8597243373956,1.52646488166485" />
+    <Link Source="@91" Target="@75" Category="CallStackDirectCall" Bounds="3512.83513333334,163.435781483481,242.490664143511,2.4628145261278" />
+    <Link Source="@92" Target="(Name=pj_thread_this @60 Type=&quot;pj_thread_t *&quot; @2)" Category="CallStackDirectCall" Bounds="4073.87548828125,167.760589599609,135.5458984375,6.09136962890625" />
+    <Link Source="@92" Target="@100" Category="CallStackDirectCall" Bounds="4073.87543333334,181.879157011185,21.0131103969579,1.13109900012054" />
+    <Link Source="@93" Target="@97" Category="CallStackDirectCall" Bounds="3112.48408008375,177.160940730273,39.7034886268675,1.34573052684362" />
+    <Link Source="@94" Target="@75" Category="CallStackDirectCall" Bounds="3732.98458619071,151.216553870051,22.4140053518568,2.87743372313639" />
+    <Link Source="@95" Target="@96" Category="CallStackDirectCall" Bounds="1276.67407742863,296.690019364965,21.0114169019116,1.05468490909539" />
+    <Link Source="@96" Target="@87" Category="CallStackDirectCall" Bounds="1494.5208440953,306.235219740435,21.0057335134632,0.743575755624818" />
+    <Link Source="@97" Target="@91" Category="CallStackDirectCall" Bounds="3298.39907005551,170.141412055725,45.3427323420369,1.74652716720141" />
+    <Link Source="@98" Target="@99" Category="CallStackDirectCall" Bounds="1313.39766040778,138.652776673628,21.9426667903756,0.717846023128089" />
+    <Link Source="@99" Target="@72" Category="CallStackDirectCall" Bounds="1426.01218161833,135.396056412815,21.0032110022998,0.55238543424889" />
+  </Links>
+  <Categories>
+    <Category Id="CallStackDirectCall" Label="调用堆栈直接调用" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="调用堆栈直接调用" OutgoingActionLabel="调用堆栈直接调用" />
+    <Category Id="CallStackEntry" Label="调用堆栈入口" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="调用堆栈入口" />
+    <Category Id="CallStackIndirectCall" Label="调用堆栈间接调用" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="调用堆栈间接调用" OutgoingActionLabel="调用堆栈间接调用" />
+    <Category Id="CodeSchema_CallStackUnresolvedMethod" Label="未解析的方法" CanBeDataDriven="True" DefaultAction="Microsoft.AllOutBoundLinks" IsProviderRoot="False" NavigationActionLabel="未解析的方法" />
+    <Category Id="CodeSchema_SourceLocation" Label="源位置" Icon="File" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="DataVirtualized" Label="已虚拟化数据" Description="如果为 true，则图中可以包含表示虚拟化节点/链接(即，不在图中实际创建)的数据的节点和链接。" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="标签" Description="可批注对象的可显示标签" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="SourceLocation" Label="起始行号" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="程序集" ValueType="Uri" />
+    <Name Id="IsUnresolved" Label="是无法解析的" ValueType="System.String" />
+    <Name Id="Name" Label="名称" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="参数" ValueType="Microsoft.VisualStudio.GraphModel.GraphNodeIdCollection" Formatter="NameValueNoEscape" />
+    <Name Id="Type" Label="类型" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=kernel32.dll" />
+    <Alias n="2" Id="IsUnresolved=True" />
+    <Alias n="3" Id="(Name=00007ffb0cc17c24 @1 @2)" />
+    <Alias n="4" Id="(Name=00007ffb0cc1cdda @1 @2)" />
+    <Alias n="5" Uri="Assembly=igc64.dll" />
+    <Alias n="6" Id="(Name=00007ffafc44604e @5 @2)" />
+    <Alias n="7" Id="(Name=00007ffafcd722cf @5 @2)" />
+    <Alias n="8" Id="(Name=00007ffafcd72910 @5 @2)" />
+    <Alias n="9" Id="(Name=00007ffafcd72a44 @5 @2)" />
+    <Alias n="10" Id="(Name=00007ffafcd82f21 @5 @2)" />
+    <Alias n="11" Id="(Name=00007ffafcd82fa3 @5 @2)" />
+    <Alias n="12" Id="(Name=00007ffafcd830b1 @5 @2)" />
+    <Alias n="13" Id="(Name=00007ffafcd8fd55 @5 @2)" />
+    <Alias n="14" Id="(Name=00007ffafcd8ffa7 @5 @2)" />
+    <Alias n="15" Id="(Name=00007ffafcd90081 @5 @2)" />
+    <Alias n="16" Id="(Name=00007ffafd043d97 @5 @2)" />
+    <Alias n="17" Uri="Assembly=d3d9.dll" />
+    <Alias n="18" Id="(Name=00007ffac4fb1b8f @17 @2)" />
+    <Alias n="19" Id="(Name=00007ffac4fb533c @17 @2)" />
+    <Alias n="20" Id="(Name=00007ffac4fbb43d @17 @2)" />
+    <Alias n="21" Id="(Name=00007ffac4fc6754 @17 @2)" />
+    <Alias n="22" Id="(Name=00007ffac4fdd486 @17 @2)" />
+    <Alias n="23" Id="(Name=00007ffac4fe6407 @17 @2)" />
+    <Alias n="24" Uri="Assembly=mscoree.dll" />
+    <Alias n="25" Id="(Name=00007ffae382718e @24 @2)" />
+    <Alias n="26" Uri="Assembly=KernelBase.dll" />
+    <Alias n="27" Id="(Name=00007ffb0b1e66dd @26 @2)" />
+    <Alias n="28" Uri="Assembly=mscoreei.dll" />
+    <Alias n="29" Id="(Name=00007ffae3781cd5 @28 @2)" />
+    <Alias n="30" Uri="Assembly=ntdll.dll" />
+    <Alias n="31" Id="(Name=00007ffb0d885021 @30 @2)" />
+    <Alias n="32" Id="(Name=00007ffb0d89081d @30 @2)" />
+    <Alias n="33" Id="(Name=00007ffb0d8945b4 @30 @2)" />
+    <Alias n="34" Id="(Name=00007ffb0d89b9a7 @30 @2)" />
+    <Alias n="35" Id="(Name=00007ffb0d89cae9 @30 @2)" />
+    <Alias n="36" Id="(Name=00007ffb0d8ca97d @30 @2)" />
+    <Alias n="37" Id="(Name=00007ffb0d8caad2 @30 @2)" />
+    <Alias n="38" Uri="Assembly=RTWorkQ.dll" />
+    <Alias n="39" Id="(Name=00007ffb036f1b29 @38 @2)" />
+    <Alias n="40" Id="(Name=00007ffb036f1f70 @38 @2)" />
+    <Alias n="41" Id="(Name=00007ffb036f85dd @38 @2)" />
+    <Alias n="42" Uri="Assembly=clr.dll" />
+    <Alias n="43" Id="(Name=00007ffae2c7227c @42 @2)" />
+    <Alias n="44" Id="(Name=00007ffae2c76886 @42 @2)" />
+    <Alias n="45" Id="(Name=00007ffae2c77b82 @42 @2)" />
+    <Alias n="46" Id="(Name=00007ffae2c77c43 @42 @2)" />
+    <Alias n="47" Id="(Name=00007ffae2c77cd0 @42 @2)" />
+    <Alias n="48" Id="(Name=00007ffae2c7b5b5 @42 @2)" />
+    <Alias n="49" Id="(Name=00007ffae2d77fc5 @42 @2)" />
+    <Alias n="50" Id="(Name=00007ffae2ddd744 @42 @2)" />
+    <Alias n="51" Id="(Name=00007ffae2ddd83a @42 @2)" />
+    <Alias n="52" Id="(Name=00007ffae2ddd984 @42 @2)" />
+    <Alias n="53" Id="(Name=00007ffae2ddda49 @42 @2)" />
+    <Alias n="54" Id="(Name=00007ffae2dddac1 @42 @2)" />
+    <Alias n="55" Id="(Name=00007ffae30daaec @42 @2)" />
+    <Alias n="56" Uri="Assembly=mfksproxy.dll" />
+    <Alias n="57" Id="(Name=00007ffaf2e6c657 @56 @2)" />
+    <Alias n="58" Id="(Name=00007ffaf2e78cdd @56 @2)" />
+    <Alias n="59" Id="(Name=00007ffaf2e7c08f @56 @2)" />
+    <Alias n="60" Uri="Assembly=pjsua2.dll" />
+    <Alias n="61" Id="Type=void" />
+    <Alias n="62" Id="(Name=pj::AudioMedia::unregisterMediaPort @60 @61 @2)" />
+    <Alias n="63" Id="(Name=pj::AudioMediaPlayer::~AudioMediaPlayer @60 @61 @2)" />
+    <Alias n="64" Id="(Name=SwigDirector_AudioMediaPlayer::~SwigDirector_AudioMediaPlayer @60 @61 @2)" />
+    <Alias n="65" Id="Type=&quot;void *&quot;" />
+    <Alias n="66" Id="(Name=&quot;SwigDirector_AudioMediaPlayer::`scalar deleting destructor'&quot; @60 @65 @2)" />
+    <Alias n="67" Id="Type=int" />
+    <Alias n="68" Id="(Name=wmme_dev_thread @60 @67 OverloadingParameters=[(@65 Name=arg)] @2)" />
+    <Alias n="69" Id="(Name=job_thread @60 @67 OverloadingParameters=[(@65 Name=data)] @2)" />
+    <Alias n="70" Id="(Name=set_cap @60 @67 OverloadingParameters=[(@65 Name=data)] @2)" />
+    <Alias n="71" Id="(Name=SwigDirector_LogWriter::write @60 @61 OverloadingParameters=[(Type=&quot;const pj::LogEntry &amp;&quot; Name=entry)] @2)" />
+    <Alias n="72" Id="(Name=pj::Endpoint::utilLogWrite @60 @61 OverloadingParameters=[(Type=&quot;pj::LogEntry &amp;&quot; Name=entry)] @2)" />
+    <Alias n="73" Id="(Name=pjsua_conf_remove_port @60 @67 OverloadingParameters=[(@67 Name=id)] @2)" />
+    <Alias n="74" Id="(Name=CSharp_delete_AudioMediaPlayer @60 @61 OverloadingParameters=[(@65 Name=jarg1)] @2)" />
+    <Alias n="75" Id="(Name=pj_mutex_lock @60 @67 OverloadingParameters=[(Type=&quot;pj_mutex_t *&quot; Name=mutex)] @2)" />
+    <Alias n="76" Id="(Name=thread_main @60 Type=&quot;unsigned long&quot; OverloadingParameters=[(@65 Name=param)] @2)" />
+    <Alias n="77" Id="Type=HRESULT" />
+    <Alias n="78" Id="(Name=CBaseRenderer::Render @60 @77 OverloadingParameters=[(Type=&quot;IMediaSample *&quot; Name=pMediaSample)] @2)" />
+    <Alias n="79" Id="(Name=NullRenderer::DoRenderSample @60 @77 OverloadingParameters=[(Type=&quot;IMediaSample *&quot; Name=pMediaSample)] @2)" />
+    <Alias n="80" Id="(Name=CBaseRenderer::Receive @60 @77 OverloadingParameters=[(Type=&quot;IMediaSample *&quot; Name=pSample)] @2)" />
+    <Alias n="81" Id="(Name=CRendererInputPin::Receive @60 @77 OverloadingParameters=[(Type=&quot;IMediaSample *&quot; Name=pSample)] @2)" />
+    <Alias n="82" Id="(Name=_exit @60 @61 OverloadingParameters=[(Type=&quot;const int&quot; Name=return_code)] @2)" />
+    <Alias n="83" Id="(Name=try_cor_exit_process @60 @61 OverloadingParameters=[(Type=&quot;const unsigned int&quot; Name=return_code)] @2)" />
+    <Alias n="84" Id="(Name=raise @60 @67 OverloadingParameters=[(Type=&quot;const int&quot; Name=signum)] @2)" />
+    <Alias n="85" Uri="Assembly=SDL2.dll" />
+    <Alias n="86" Id="Type=&quot;unsigned int&quot;" />
+    <Alias n="87" Id="(Name=D3D_CreateRenderer @85 Type=&quot;SDL_Renderer *&quot; OverloadingParameters=[(Type=&quot;SDL_Window *&quot; Name=window),(@86 Name=flags)] @2)" />
+    <Alias n="88" Id="Type=&quot;const char *&quot;" />
+    <Alias n="89" Id="(Name=pj_log_4 @60 @61 OverloadingParameters=[(@88 Name=obj),(@88 Name=format)] @2)" />
+    <Alias n="90" Id="(Name=play_cb @60 @67 OverloadingParameters=[(@65 Name=user_data),(Type=&quot;pjmedia_frame *&quot; Name=frame)] @2)" />
+    <Alias n="91" Id="(Name=copy_frame_to_buffer @60 @61 OverloadingParameters=[(Type=&quot;pjmedia_vid_port *&quot; Name=vp),(Type=&quot;pjmedia_frame *&quot; Name=frame)] @2)" />
+    <Alias n="92" Id="(Name=pj_thread_check_stack @60 @61 OverloadingParameters=[(@88 Name=file),(@67 Name=line)] @2)" />
+    <Alias n="93" Id="(Name=input_cb @60 @61 OverloadingParameters=[(@65 Name=user_data),(Type=&quot;IMediaSample *&quot; Name=pMediaSample)] @2)" />
+    <Alias n="94" Id="(Name=pjmedia_conf_remove_port @60 @67 OverloadingParameters=[(Type=&quot;pjmedia_conf *&quot; Name=conf),(@86 Name=port)] @2)" />
+    <Alias n="95" Id="(Name=SDL_CreateRenderer @85 Type=&quot;SDL_Renderer *&quot; OverloadingParameters=[(Type=&quot;SDL_Window *&quot; Name=a),(@67 Name=b),(@86 Name=c)] @2)" />
+    <Alias n="96" Id="(Name=SDL_CreateRenderer_REAL @85 Type=&quot;SDL_Renderer *&quot; OverloadingParameters=[(Type=&quot;SDL_Window *&quot; Name=window),(@67 Name=index),(@86 Name=flags)] @2)" />
+    <Alias n="97" Id="(Name=vidstream_cap_cb @60 @67 OverloadingParameters=[(Type=&quot;pjmedia_vid_dev_stream *&quot; Name=stream),(@65 Name=user_data),(Type=&quot;pjmedia_frame *&quot; Name=frame)] @2)" />
+    <Alias n="98" Id="(Name=log_writer @60 @61 OverloadingParameters=[(@67 Name=level),(@88 Name=buffer),(@67 Name=len)] @2)" />
+    <Alias n="99" Id="(Name=pj::Endpoint::logFunc @60 @61 OverloadingParameters=[(@67 Name=level),(@88 Name=data),(@67 Name=len)] @2)" />
+    <Alias n="100" Id="(Name=_wassert @60 @61 OverloadingParameters=[(Type=&quot;const wchar_t * const&quot; Name=expression),(Type=&quot;const wchar_t * const&quot; Name=file_name),(Type=&quot;const unsigned int&quot; Name=line_number)] @2)" />
+    <Alias n="101" Id="(Name=common_exit @60 @61 OverloadingParameters=[(Type=&quot;const int&quot; Name=return_code),(Type=_crt_exit_cleanup_mode Name=cleanup_mode),(Type=_crt_exit_return_mode Name=return_mode)] @2)" />
+    <Alias n="102" Id="(Name=sdl_create_window @60 @67 OverloadingParameters=[(Type=&quot;sdl_stream *&quot; Name=strm),(@67 Name=use_app_win),(@86 Name=sdl_format),(Type=&quot;pjmedia_vid_dev_hwnd *&quot; Name=hwnd)] @2)" />
+    <Alias n="103" Id="(Name=pj_log @60 @61 OverloadingParameters=[(@88 Name=sender),(@67 Name=level),(@88 Name=format),(Type=&quot;char *&quot; Name=marker)] @2)" />
+    <Alias n="104" Id="(Name=common_assert_to_message_box&lt;wchar_t&gt; @60 @61 OverloadingParameters=[(Type=&quot;const wchar_t * const&quot; Name=expression),(Type=&quot;const wchar_t * const&quot; Name=file_name),(Type=&quot;const unsigned int&quot; Name=line_number),(Type=&quot;void * const&quot; Name=return_address)] @2)" />
+    <Alias n="105" Id="(Name=common_assert&lt;wchar_t&gt; @60 @61 OverloadingParameters=[(Type=&quot;const wchar_t * const&quot; Name=expression),(Type=&quot;const wchar_t * const&quot; Name=file_name),(Type=&quot;const unsigned int&quot; Name=line_number),(Type=&quot;void * const&quot; Name=return_address)] @2)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Link" GroupLabel="Current Call Stack Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CurrentCallStackCall')" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+      <Setter Property="Weight" Value="1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Indirect Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackIndirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+      <Setter Property="StrokeDashArray" Value="4 1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Direct Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackDirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="当前调用堆栈(无源)" ValueLabel="True">
+      <Condition Expression="HasCategory('CurrentCallStackEntry') And !HasCategory('CodeSchema_SourceLocation')" />
+      <Setter Property="Background" Value="Transparent" />
+      <Setter Property="Foreground" Value="#FFA5A5A5" />
+      <Setter Property="Stroke" Value="#FF0072C6" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="External And Current" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('ExternalCallStackEntry') And HasCategory('CurrentCallStackEntry')" />
+      <Setter Property="Background" Value="#FFFFF8F0" />
+      <Setter Property="Stroke" Value="#FFCE5100" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="当前调用堆栈(源)" ValueLabel="True">
+      <Condition Expression="HasCategory('CurrentCallStackEntry') And !HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFFFE3C6" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="外部调用堆栈" ValueLabel="True">
+      <Condition Expression="HasCategory('ExternalCallStackEntry')" />
+      <Setter Property="Background" Value="#FFF7F7F7" />
+      <Setter Property="StrokeDashArray" Value="1 3" />
+      <Setter Property="Foreground" Value="#FF717171" />
+      <Setter Property="Stroke" Value="#FFA5A5A5" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="结果" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="测试项目" ValueLabel="测试项目">
+      <Condition Expression="HasCategory('CodeMap_TestProject')" />
+      <Setter Property="Icon" Value="CodeMap_TestProject" />
+      <Setter Property="Background" Value="#FF307A69" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Web 项目" ValueLabel="Web 项目">
+      <Condition Expression="HasCategory('CodeMap_WebProject')" />
+      <Setter Property="Icon" Value="CodeMap_WebProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Windows 应用商店项目" ValueLabel="Windows 应用商店项目">
+      <Condition Expression="HasCategory('CodeMap_WindowsStoreProject')" />
+      <Setter Property="Icon" Value="CodeMap_WindowsStoreProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="电话项目" ValueLabel="电话项目">
+      <Condition Expression="HasCategory('CodeMap_PhoneProject')" />
+      <Setter Property="Icon" Value="CodeMap_PhoneProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="可移植库" ValueLabel="可移植库">
+      <Condition Expression="HasCategory('CodeMap_PortableLibraryProject')" />
+      <Setter Property="Icon" Value="CodeMap_PortableLibraryProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="WPF 项目" ValueLabel="WPF 项目">
+      <Condition Expression="HasCategory('CodeMap_WpfProject')" />
+      <Setter Property="Icon" Value="CodeMap_WpfProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="VSIX 项目" ValueLabel="VSIX 项目">
+      <Condition Expression="HasCategory('CodeMap_VsixProject')" />
+      <Setter Property="Icon" Value="CodeMap_VsixProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="建模项目" ValueLabel="建模项目">
+      <Condition Expression="HasCategory('CodeMap_ModelingProject')" />
+      <Setter Property="Icon" Value="CodeMap_ModelingProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="程序集" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="命名空间" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="接口" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="结构" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="枚举" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="委托" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="类" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF0E70C0" />
+      <Setter Property="Stroke" Value="#FF0E70C0" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="属性" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="方法" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="事件" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="字段" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out 参数" ValueLabel="具有类别">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="参数" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="局部变量" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="外部" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="继承自" ValueLabel="True">
+      <Condition Expression="HasCategory('InheritsFrom')" />
+      <Setter Property="Stroke" Value="#FF00A600" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="实现" ValueLabel="True">
+      <Condition Expression="HasCategory('Implements')" />
+      <Setter Property="Stroke" Value="#8000A600" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="调用" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Calls')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="函数指针" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FunctionPointer')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="字段读取" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="字段写入" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldWrite')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="DrawArrow" Value="true" />
+      <Setter Property="IsHidden" Value="false" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="返回" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_ReturnTypeLink')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="引用" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('References')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="使用特性" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_AttributeUse')" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="解决方案文件夹" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeMap_SolutionFolder')" />
+      <Setter Property="Background" Value="#FFDEBA83" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="项目引用" ValueLabel="项目引用">
+      <Condition Expression="HasCategory('CodeMap_ProjectReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="外部引用" ValueLabel="外部引用">
+      <Condition Expression="HasCategory('CodeMap_ExternalReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="注释" ValueLabel="包含注释">
+      <Condition Expression="HasCategory('Comment')" />
+      <Setter Property="Background" Value="#FFFFFACD" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+      <Setter Property="StrokeThickness" Value="1" />
+      <Setter Property="NodeRadius" Value="2" />
+      <Setter Property="MaxWidth" Value="250" />
+    </Style>
+  </Styles>
+</DirectedGraph>
